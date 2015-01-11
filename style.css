@@ -1,0 +1,67 @@
+.nav li {
+	display: inline-block;
+	float: right;
+	padding: 10px;
+}
+
+.text {
+	position: relative;
+	bottom: 9px;
+	font-size: 12px;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.text a {
+	text-decoration: none;
+	color: #0a0a0a;
+}
+
+
+#me {
+	position: relative;
+	bottom: 10px;
+}
+
+.container {
+	display: block;
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
+
+.logo {
+	clear: both;
+}
+
+input {
+	width: 561px;
+	height: 22px;
+	padding: 2px;
+	margin: 13px 0 20px;
+	border: 1px solid #1675F2;
+}
+
+button {
+	height: 27px;
+	border: 1px solid #c2c2c2;
+	border-radius: 2px;
+}
+
+button:hover {
+	border: 1px solid #7a7a7a;
+}
+
+span {
+	font-weight: bold;
+	color: #474747;
+}
+
+#btn_lt {
+	margin-right: 5px;
+}
+
+#btn_rt {
+	margin-left: 5px;
+}
+
